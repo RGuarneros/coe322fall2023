@@ -1,0 +1,3 @@
+/Users/guarneros/Documents/coe322exercises/build/CMakeFiles/dynrectangle.dir
+/Users/guarneros/Documents/coe322exercises/build/CMakeFiles/edit_cache.dir
+/Users/guarneros/Documents/coe322exercises/build/CMakeFiles/rebuild_cache.dir
