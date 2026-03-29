@@ -1,0 +1,21 @@
+Linear Congruential Generator - creates random numbers like rand in c++ 
+
+static inline int number{0} --> lets you initialize a static variable with zero 
+
+Initialize variable in parenthesis of your function (inputs) gives it that default value,
+They all have to be towards the end of the list. 
+
+Defining objects in classes: 
+Declaration and Definition
+You can declare the object before definition --> specify parameters w/ types & return type
+	void print();
+Definition the list print method 
+	void List::print(){full code}
+icpc -c --> just compiles 
+icpc -o main function.o funct.o --> creates the executable with both .o files (linker)
+
+
+
+HW11 -- make zeroclasstest.cpp work and satisfy tests
+	bisection folder in skeletons
+Horner's method for evaluating polynomials 
